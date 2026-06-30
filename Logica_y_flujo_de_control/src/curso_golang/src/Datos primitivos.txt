@@ -1,0 +1,30 @@
+Enteros
+int -> 32 o 64 bits OS
+int8 -> -128 - 127
+int16-> -2^15 a 2^15-1
+int32 -> -2^31 a 2^31-1 
+int64 -> -2^63 a 2^63-1
+
+
+Enteros positivos
+
+uint -> 32 o 64 bits OS
+uint8 -> 0 a 2^8-1
+uint16-> 0 a 2^16-1
+uint32 -> 0 a 2^32-1 
+uint64 -> 0 a 2^64-1
+
+Decimales
+
+float32 -> // float32 = 32 bits = +/- 1.18e^-38 +/- -3.4e^38
+float64 -> // float64 = 64 bits = +/- 2.23e^-308 +/- -1.8e^308
+
+
+//textos y booleanos
+//string = ""
+//bool = true or false
+
+//numeros complejos
+//Complex64 = Real e Imaginario float32
+//Complex128 = Real e Imaginario float64
+//Ejemplo : c:=10 + 8i
